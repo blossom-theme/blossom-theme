@@ -1,2 +1,9 @@
-# blossom-theme
-A simple pinkish colorscheme designed for cursive italics
+# Blossom Theme
+
+> What a strange thing!  
+to be alive  
+beneath cherry blossoms.
+
+  - Haiku by Kobayashi Issa
+
+<br>
