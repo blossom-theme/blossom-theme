@@ -5,10 +5,12 @@ beneath cherry blossoms.</i></p>
 
 <p align="center">A collection of themes inspired by blossom.vim by rayes0</p>
 
-### List of themes
-
+## List of themes
+#### Terminal
 - [blossom.vim](https://github.com/blossom-theme/blossom.vim)
-- [discord theme](https://github.com/blossom-theme/discord) by [oblicue](https://github.com/oblicue)
 - [alacritty theme](https://github.com/blossom-theme/alacritty) by [oblicue](https://github.com/oblicue)
+#### Chat
+- [discord theme](https://github.com/blossom-theme/discord) by [oblicue](https://github.com/oblicue)
+
 
 <br>
