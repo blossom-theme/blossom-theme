@@ -9,7 +9,7 @@ Collection of themes inspired by blossom.vim by rayes0
 ### List of themes
 
 - [blossom.vim](https://github.com/blossom-theme/blossom.vim)
-- [discord theme](https://github.com/blossom-theme/discord)
-- [alacritty theme](https://github.com/blossom-theme/alacritty)
+- [discord theme](https://github.com/blossom-theme/discord) by [oblicue](https://github.com/oblicue)
+- [alacritty theme](https://github.com/blossom-theme/alacritty) by [oblicue](https://github.com/oblicue)
 
 <br>
