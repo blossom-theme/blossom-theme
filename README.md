@@ -12,5 +12,7 @@ beneath cherry blossoms.</i></p>
 #### Chat
 - [discord theme](https://github.com/blossom-theme/discord) by [oblicue](https://github.com/oblicue)
 
-
-<br>
+## Contribution Rules
+- If you want to contribute, feel free!
+- Create a theme using [the template](https://github.com/blossom-theme/template).
+- The palette is [here](https://github.com/blossom-theme/palette)
