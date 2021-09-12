@@ -1,10 +1,9 @@
-# Blossom Theme
+<h1 align="center">🌸Blossom🌸</h1>
+<p align="center"><i>What a strange thing!<br>  
+to be alive<br>  
+beneath cherry blossoms.</i></p>
 
-> What a strange thing!  
-to be alive  
-beneath cherry blossoms.
-
-Collection of themes inspired by blossom.vim by rayes0
+<p align="center">A collection of themes inspired by blossom.vim by rayes0</p>
 
 ### List of themes
 
