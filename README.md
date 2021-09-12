@@ -4,6 +4,6 @@
 to be alive  
 beneath cherry blossoms.
 
-  - Haiku by Kobayashi Issa
+- Collection of themes inspired by blossom.vim by rayes0
 
 <br>
